@@ -1,1 +1,0 @@
-import"./chunk-DNYBPYCB.js";import"./chunk-GAL4ENT6.js";var o=[{path:"suppliers",children:[{path:"",loadComponent:()=>import("./chunk-UFQOK6FN.js").then(e=>e.AllSuppliers)},{path:"new-supplier",loadComponent:()=>import("./chunk-VW2C2PFS.js").then(e=>e.NewSupplier)}]}];export{o as contactsRoutes};
